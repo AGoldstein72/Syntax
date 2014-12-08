@@ -7,7 +7,7 @@ public class Syntax : MonoBehaviour {
 	private bool boolean2 = true;
 
 	public int integer = 1;
-	public float floatingPoint = 1.1f;
+	public float floatingPoint = 1.3f;
 
 	// Use this for initialization
 	void Start () {
